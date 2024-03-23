@@ -1,3 +1,5 @@
+# PotatoTool工具雏形，N年前写的 (优点在于web版本)
+
 # 访问地址
 https://potato.gold/navbar/tool/webshellDecrypt/index.php
 
